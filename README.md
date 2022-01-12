@@ -1,9 +1,4 @@
 # Requirements
-
-- You are provided with an incomplete <Checkout /> component.
-- You are not allowed to add any additional HTML elements.
-- You are not allowed to use refs.
-
 - Once the <Checkout /> component is mounted, load the products using the getProducts function.
 - Once all the data is successfully loaded, hide the loading icon.
 - Render each product object as a <Product/> component, passing in the necessary props.
